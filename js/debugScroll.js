@@ -1,4 +1,4 @@
-export function enableScrollDebug() {
+function enableScrollDebug() {
 	const container = document.querySelector('main');
 	const scrollGroups = document.querySelectorAll('.scroll-group');
 	const articles = container.querySelectorAll('.carrousel-container');
@@ -69,3 +69,5 @@ function waitForMediaLoad(callback) {
 		}
 	});
 }
+
+enableScrollDebug();
