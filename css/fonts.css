@@ -1,0 +1,412 @@
+/* NEUE MONTREAL  */
+
+@font-face{
+	font-family: "Neue-Montreal";
+	font-weight: 100;
+	font-style: normal;
+	src:
+		url(../fonts/Neue-Montreal/PPNeueMontreal-Thin.ttf) format("TrueType"),
+		url(../fonts/Neue-Montreal/PPNeueMontreal-Thin.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Neue-Montreal";
+	font-weight: 100;
+	font-style: italic;
+	src:
+		url(../fonts/Neue-Montreal/PPNeueMontreal-ThinItalic.ttf) format("TrueType"),
+		url(../fonts/Neue-Montreal/PPNeueMontreal-ThinItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Neue-Montreal";
+	font-weight: 400;
+	font-style: normal;
+	src:
+		url(../fonts/Neue-Montreal/PPNeueMontreal-Regular.ttf) format("TrueType"),
+		url(../fonts/Neue-Montreal/PPNeueMontreal-Regular.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Neue-Montreal";
+	font-weight: 400;
+	font-style: italic;
+	src:
+		url(../fonts/Neue-Montreal/PPNeueMontreal-Italic.ttf) format("TrueType"),
+		url(../fonts/Neue-Montreal/PPNeueMontreal-Italic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Neue-Montreal";
+	font-weight: 700;
+	font-style: normal;
+	src:
+		url(../fonts/Neue-Montreal/PPNeueMontreal-Bold.ttf) format("TrueType"),
+		url(../fonts/Neue-Montreal/PPNeueMontreal-Bold.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Neue-Montreal";
+	font-weight: 700;
+	font-style: italic;
+	src:
+		url(../fonts/Neue-Montreal/PPNeueMontreal-BoldItalic.ttf) format("TrueType"),
+		url(../fonts/Neue-Montreal/PPNeueMontreal-BoldItalic.woff2) format("woff2");
+}
+
+
+
+/* FORMULA */
+	/* REGULAR */
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: normal;
+	src:
+		url(../fonts/Formula/PPFormula-Light.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-Light.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	src:
+		url(../fonts/Formula/PPFormula-Regular.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-Regular.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 400;
+	font-style: italic;
+	font-stretch: normal;
+	src:
+		url(../fonts/Formula/PPFormula-RegularItalic.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-RegularItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: normal;
+	src:
+		url(../fonts/Formula/PPFormula-Medium.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-Medium.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 500;
+	font-style: italic;
+	font-stretch: normal;
+	src:
+		url(../fonts/Formula/PPFormula-MediumItalic.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-MediumItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 800;
+	font-style: normal;
+	font-stretch: normal;
+	src:
+		url(../fonts/Formula/PPFormula-Extrabold.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-Extrabold.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 800;
+	font-style: italic;
+	src:
+		url(../fonts/Formula/PPFormula-ExtraboldItalic.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-ExtraboldItalic.woff2) format("woff2");
+}
+
+	/* CONDENSED */
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 200;
+	font-style: normal;
+	font-stretch: extra-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-CondensedExtralight.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-CondensedExtralight.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 300;
+	font-style: italic;
+	font-stretch: extra-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-CondensedLightItalic.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-CondensedLightItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: extra-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-CondensedRegular.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-CondensedRegular.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: extra-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-CondensedRegular.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-CondensedRegular.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 900;
+	font-style: normal;
+	font-stretch: extra-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-CondensedBlack.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-CondensedBlack.woff2) format("woff2");
+}
+
+	/* NARROW */
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: condensed;
+	src:
+		url(../fonts/Formula/PPFormula-NarrowRegular.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-NarrowRegular.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 600;
+	font-style: normal;
+	font-stretch: condensed;
+	src:
+		url(../fonts/Formula/PPFormula-NarrowSemibold.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-NarrowSemibold.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: condensed;
+	src:
+		url(../fonts/Formula/PPFormula-NarrowBold.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-NarrowBold.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 700;
+	font-style: italic;
+	font-stretch: condensed;
+	src:
+		url(../fonts/Formula/PPFormula-NarrowBoldItalic.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-NarrowBoldItalic.woff2) format("woff2");
+}
+
+	/* SEMI-CONDENSED */
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 100;
+	font-style: normal;
+	font-stretch: semi-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-SemiCondensedThin.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-SemiCondensedThin.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 200;
+	font-style: normal;
+	font-stretch: semi-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-SemiCondensedExtralight.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-SemiCondensedExtralight.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 200;
+	font-style: italic;
+	font-stretch: semi-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-SemiCondensedExtralightItalic.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-SemiCondensedExtralightItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: semi-condensed;
+	src:
+		url(../fonts/Formula/PPFormula-SemiCondensedMedium.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-SemiCondensedMedium.woff2) format("woff2");
+}
+
+	/* SEMI-ENTENDED */
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: semi-expanded;
+	src:
+		url(../fonts/Formula/PPFormula-SemiExtendedBold.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-SemiExtendedBold.woff2) format("woff2");
+}
+
+	/* EXTENDED */
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: expanded;
+	src:
+		url(../fonts/Formula/PPFormula-ExtendedLight.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-ExtendedLight.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 300;
+	font-style: normal;
+	font-stretch: expanded;
+	src:
+		url(../fonts/Formula/PPFormula-ExtendedLightItalic.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-ExtendedLightItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 500;
+	font-style: normal;
+	font-stretch: expanded;
+	src:
+		url(../fonts/Formula/PPFormula-ExtendedMedium.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-ExtendedMedium.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Formula";
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: expanded;
+	src:
+		url(../fonts/Formula/PPFormula-ExtendedBold.ttf) format("TrueType"),
+		url(../fonts/Formula/PPFormula-ExtendedBold.woff2) format("woff2");
+}
+
+
+/* EDITORIAL NEW  */
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 100;
+	font-style: normal;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-Thin.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-Thin.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 100;
+	font-style: italic;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-ThinItalic.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-ThinItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 200;
+	font-style: normal;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-Ultralight.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-Ultralight.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 200;
+	font-style: italic;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-UltralightItalic.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-UltralightItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 400;
+	font-style: normal;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-Regular.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-Regular.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 400;
+	font-style: italic;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-Italic.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-Italic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 700;
+	font-style: normal;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-Bold.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-Bold.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 700;
+	font-style: italic;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-BoldItalic.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-BoldItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 900;
+	font-style: normal;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-Heavy.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-Heavy.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Editorial-New";
+	font-weight: 900;
+	font-style: italic;
+	src:
+		url(../fonts/Editorial-New/PPEditorialNew-HeavyItalic.ttf) format("TrueType"),
+		url(../fonts/Editorial-New/PPEditorialNew-HeavyItalic.woff2) format("woff2");
+}
