@@ -1,18 +1,9 @@
-function enableScrollDebug() {
+export function enableScrollDebug() {
 	const container = document.querySelector('main');
 	const scrollGroups = document.querySelectorAll('.scroll-group');
 	const articles = container.querySelectorAll('.carrousel-container');
 
 	document.body.classList.add('debug-mode'); // pour les styles visuels (si présents dans le CSS)
-
-	// Bordures visibles pour les groupes et articles
-	// scrollGroups.forEach(group => {
-	// 	group.style.outline = '2px solid lime';
-	// });
-	// articles.forEach(article => {
-	// 	article.style.border = '2px dashed red';
-	// });
-	
 
 	// Attente du chargement des médias pour mesurer précisément
 	waitForMediaLoad(() => {
@@ -69,5 +60,3 @@ function waitForMediaLoad(callback) {
 		}
 	});
 }
-
-enableScrollDebug();

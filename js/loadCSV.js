@@ -10,14 +10,14 @@ export async function loadCSV() {
 	rows.shift();
 
 	csvData = rows.map((row, i) => {
-		const [folder, videoSrc, imgSrc, title, software, description] = row.split(';');
+		const [folder, videoSrc, imgSrc, title, type, description] = row.split(';');
 		return {
 			index: i,
 			folder: folder?.trim(),
 			video: videoSrc?.trim(),
 			image: imgSrc?.trim(),
 			title: title?.trim(),
-			software: software?.trim(),
+			type: type?.trim(),
 			description: description?.trim()
 		};
 	});
@@ -52,13 +52,18 @@ export function createScrollGroup() {
 		textDiv.dataset.speed = '-0.3';
 
 		const titleH1 = document.createElement('h1');
+		titleH1.className = 'text-hover';
 		titleH1.textContent = data.title || '';
 
 		const discoverButton = document.createElement('button');
-		discoverButton.className = 'text-button underline';
+		discoverButton.className = 'text-button underline text-hover';
 		discoverButton.textContent = 'Découvrir';
 
-		const mediaDiv = document.createElement('div');
+		const projectTypeH2 = document.createElement('h2');
+		projectTypeH2.className = 'type text-hover';
+		projectTypeH2.textContent = data.type || '';
+
+		const mediaDiv = document.createElement('figure');
 		mediaDiv.className = 'media-container parallax';
 		mediaDiv.dataset.speed = '0.3';
 
@@ -81,6 +86,7 @@ export function createScrollGroup() {
 		a.appendChild(textDiv);
 		textDiv.appendChild(titleH1);
 		textDiv.appendChild(discoverButton);
+		textDiv.appendChild(projectTypeH2);
 		article.appendChild(mediaDiv);
 		group.appendChild(article);
 	});
