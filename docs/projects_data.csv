@@ -1,11 +1,11 @@
-﻿folder;video;image;title;software;description;link
-lotus-noir;lotus-noir.mp4;lotus-noir.gif;Lotus Noir;;;
-nova;nova-teaser.mp4;nova.png;Teaser Nova;;;
-cinesthesie;cinesthesie-challengers.mp4;placeholder.jpg;Cinésthésie;;;https://www.instagram.com/cinesthesie_namm/
-presse-citron;;presse-citron.png;Trophée Presse Citron;;;http://www.pressecitron.org/
-memoire-dnmade;;memoire.png;Mémoire DNMADE;;;
-cinecure;cinecure-intro.mp4;;Cinécure;;;
-frontieres;frontieres.mp4;frontieres.png;Frontières;;;
-home;;home-01.jpg;home.;;;
-blob;16x15x3.mp4;;16 x 15 x 3;;;
-voyage-voyage;;IMG_8794.JPG;Voyage Voyage;;;
+﻿folder;video;image;title;type;description;link
+lotus-noir;lotus-noir.mp4;lotus-noir.png;Lotus Noir;Animation 3D;;
+nova;nova-teaser.mp4;nova.png;Teaser Nova;Motion design, Animation 2D;;
+cinesthesie;cinesthesie-challengers.mp4;placeholder.jpg;Cinésthésie;Vidéo, Animation 2D;;https://www.instagram.com/cinesthesie_namm/
+presse-citron;;presse-citron.png;Trophée Presse Citron;Modélisation et impression 3D;;http://www.pressecitron.org/
+memoire-dnmade;;memoire.png;Mémoire DNMADE;Mise en page;;
+cinecure;cinecure-intro.mp4;;Cinécure;Identité graphique, Animation 2D;;
+frontieres;frontieres.mp4;frontieres.png;Frontières;Court-métrage;;
+home;;home-01.jpg;home.;Mise en page;;
+blob;blob-teaser.mp4;;16 x 15 x 3;Court-métrage en animation 3D;;
+voyage-voyage;;IMG_8794.JPG;Voyage Voyage;Édition en risographie;;
