@@ -410,3 +410,114 @@
 		url(../fonts/Editorial-New/PPEditorialNew-HeavyItalic.ttf) format("TrueType"),
 		url(../fonts/Editorial-New/PPEditorialNew-HeavyItalic.woff2) format("woff2");
 }
+
+
+/* WRITER */
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 100;
+	font-style: normal;
+	src:
+		url(../fonts/Writer/PPWriter-Thin.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-Thin.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 100;
+	font-style: italic;
+	src:
+		url(../fonts/Writer/PPWriter-ThinItalic.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-ThinItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 300;
+	font-style: normal;
+	src:
+		url(../fonts/Writer/PPWriter-Regular.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-Regular.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 300;
+	font-style: italic;
+	src:
+		url(../fonts/Writer/PPWriter-RegularItalic.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-RegularItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 400;
+	font-style: normal;
+	src:
+		url(../fonts/Writer/PPWriter-Book.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-Book.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 400;
+	font-style: italic;
+	src:
+		url(../fonts/Writer/PPWriter-BookItalic.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-BookItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 500;
+	font-style: normal;
+	src:
+		url(../fonts/Writer/PPWriter-Bold.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-Bold.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 500;
+	font-style: italic;
+	src:
+		url(../fonts/Writer/PPWriter-BoldItalic.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-BoldItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 700;
+	font-style: normal;
+	src:
+		url(../fonts/Writer/PPWriter-Ultrabold.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-Ultrabold.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 700;
+	font-style: italic;
+	src:
+		url(../fonts/Writer/PPWriter-UltraboldItalic.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-UltraboldItalic.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 800;
+	font-style: normal;
+	src:
+		url(../fonts/Writer/PPWriter-Black.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-Black.woff2) format("woff2");
+}
+
+@font-face{
+	font-family: "Writer";
+	font-weight: 800;
+	font-style: italic;
+	src:
+		url(../fonts/Writer/PPWriter-BlackItalic.ttf) format("TrueType"),
+		url(../fonts/Writer/PPWriter-BlackItalic.woff2) format("woff2");
+}
